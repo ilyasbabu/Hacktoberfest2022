@@ -1,1 +1,1 @@
-# Contributores can now contributr python projects/algorithms and Programs
+# Contributors can now contribute python projects/algorithms and Programs
